@@ -15,6 +15,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-화면은 다음과 같습니다. 
+화면은 다음과 같습니다.     
+
 ![image](https://github.com/user-attachments/assets/5ed3b2af-2cce-4434-b18f-5fec882d92ea)
 
