@@ -1,0 +1,5 @@
+0 human
+1 dog
+2 aircraft
+3 plants
+4 cup
